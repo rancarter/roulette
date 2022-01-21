@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "strictNullChecks": false
+  },
+  "include": ["src/**/*"]
+}
